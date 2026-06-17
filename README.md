@@ -16,7 +16,7 @@ This repository documents my learning journey through the Google × Kaggle AI Ag
 |------|--------|---------|
 | Day 1 | Vibe Coding | ✅ |
 | Day 2 | MCP & Tools | ✅ |
-| Day 3 | Agent Workflows | ⏳ |
+| Day 3 | Agent Workflows | ✅ |
 | Day 4 | Advanced Agents | ⏳ |
 | Day 5 | Capstone | ⏳ |
 
